@@ -4,12 +4,6 @@
 <img align ="right" alt="coding" width = "400" src = "https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abel-desu&label=Profile%20views&color=0e75b6&style=flat" alt="abel-desu" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abel-desu" alt="abel-desu" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/abeldesalegn" target="blank"><img src="https://img.shields.io/twitter/follow/abeldesalegn?logo=twitter&style=for-the-badge" alt="abeldesalegn" /></a> </p>
-
 - 🌱 I’m currently learning **Web frontend programming languages**
 
 - 👨‍💻 All of my projects are available at [https://abel-desu.github.io/Portfolio-setup-and-mobile-version-skeleton/](https://abel-desu.github.io/Portfolio-setup-and-mobile-version-skeleton/)
